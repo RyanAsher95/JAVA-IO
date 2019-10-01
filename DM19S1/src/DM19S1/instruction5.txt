@@ -1,0 +1,17 @@
+query name Linda Xu
+
+update name Jone Bloggs; birthday 08-07-1998; phone 08884444; address 9001 Chester Crescent, Chatswood, NSW; postcode 2067
+
+delete Linda Xu; 12-05-1948
+
+update name Linda Xu; birthday 13-05-1990; address 9 Nelson St, Penshurst, NSW;
+
+donate Linda Xu; 13-05-1990; diabetes, 950; dog care, 190;
+
+query name Linda Xu
+
+donate Jone Bloggs; 08-07-1998; dog care, 200; lifecare, 300;
+
+query top 3
+
+query recipients

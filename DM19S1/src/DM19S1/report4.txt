@@ -1,0 +1,179 @@
+
+
+----------query name Linda Xu----------
+
+
+1 record(s) found:
+
+
+name Linda Xu
+
+
+birthday 13-05-1990
+
+
+address 491 Forest Rd, Penshurst NSW
+
+
+postcode 2222
+
+
+phone 03112210
+
+
+recipient the disabled
+
+
+donation 300
+
+
+----------------------------------------
+
+
+
+----delete Patricia Davies----
+
+
+Record deleted!
+
+
+-------------------------
+
+
+
+----donate Linda Xu----
+
+
+2 new donation record(s) for Linda Xu birthday 13-05-1990
+
+
+-------------------------
+
+
+
+----donate Julia Wang----
+
+
+1 new donation record(s) for Julia Wang birthday 03-06-2008
+
+
+-------------------------
+
+
+
+----------query name Linda Xu----------
+
+
+1 record(s) found:
+
+
+name Linda Xu
+
+
+birthday 13-05-1990
+
+
+address 491 Forest Rd, Penshurst NSW
+
+
+postcode 2222
+
+
+phone 03112210
+
+
+recipient the disabled, diabetes, dog care
+
+
+donation 300, 950, 190
+
+
+----------------------------------------
+
+
+
+----donate Linda H Evans----
+
+
+Invalid instruction!
+
+
+-------------------------
+
+
+
+----donate David Joans----
+
+
+1 new donation record(s) for David Joans birthday 13-07-1999
+
+
+-------------------------
+
+
+
+----donate Linda Bloggs----
+
+
+1 new donation record(s) for Linda Bloggs birthday 13-01-1960
+
+
+-------------------------
+
+
+
+----------query name David Joans----------
+
+
+1 record(s) found:
+
+
+name David Joans
+
+
+birthday 13-07-1999
+
+
+address 61 Gibbes St, Redfern, NSW
+
+
+postcode 2016
+
+
+phone 01220099
+
+
+recipient diabetes, wildlife
+
+
+donation 650, 300
+
+
+----------------------------------------
+
+
+
+----query recipients----
+
+
+cancer protection: 1100; postcode 2016
+
+
+dog care: 700; postcode 2216
+
+
+animal protection org: 600; postcode 2130, 2222
+
+
+diabetes: 3030; postcode 2066
+
+
+the disabled: 400; postcode 2057, 2016
+
+
+wildlife: 1300; postcode 2222
+
+
+---------------------------
+
+

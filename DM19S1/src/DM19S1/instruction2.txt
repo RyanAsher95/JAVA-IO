@@ -1,0 +1,28 @@
+update name Jo Bloggs; birthday 08-07-1998; phone 88884444; address 9001 Chester Crescent, Chatswood, NSW; postcode 2067
+
+update name Jo Bloggs; birthday 08-07-1998; phone 08888444; 
+
+update phone 001223456; name Linda Evans; birthday 01-01-2013; address 1 Grace Street, Lane Cove, NSW; postcode 2066
+
+update phone 03422215; name Linda Evans; birthday 01-09-2003; address 100 Grace Street, Lane Cove, NSW; postcode 2066;
+
+donate Jo Bloggs; 08-07-1998; animal protection, 200; lifecare, 300;
+
+update birthday 12-19-1971; phone 03222215; name Linda H Evans; address 1 Grace Street, Lane Cove, NSW, postcode 2066; 
+
+delete Patricia Davies; 03-06-2008
+
+update name Jo Bloggs; birthday 08-07-1998; phone 88884444; 
+
+update  name Tom Swift; birthday 15-12-1993; phone 05111233; address 12 Campus Street, Darlington, NSW; postcode 2008; 
+
+donate Linda Evans; 01-09-2003; diabetes, 500; dog care, 190;
+
+delete Posephine Bloggs; 01012221
+
+update mobile 13101132; name Thomas Swan; fee $50; pass Gold; address 2 Campus Street, Sydney, NSW; postcode 2000; 
+
+delete Posephine Bloggs; 23-o7-2008
+
+
+

@@ -1,0 +1,21 @@
+phone 01012221
+birthday 23-07-2008
+name Posephine Bloggs
+recipient diabetes, dog care
+donation 500, 150
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+
+name Posephine Esmerelda Bloggs
+birthday 13-05-1960
+postcode 2130
+phone 11222009
+address 102 Smith St, Summer hill, NSW
+
+name Patricia Davies
+birthday 03-06-2008
+phone 00220000
+recipient dog care, the disabled
+donation 100, 300
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216

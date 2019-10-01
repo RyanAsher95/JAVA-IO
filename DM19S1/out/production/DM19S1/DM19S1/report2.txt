@@ -1,0 +1,131 @@
+
+
+----update name Jo Bloggs----
+
+
+Record added!
+
+
+-------------------------
+
+
+
+----update name Jo Bloggs----
+
+
+Record updated!
+
+
+-------------------------
+
+
+
+----update phone 001223456----
+
+
+Record added!
+
+
+-------------------------
+
+
+
+----update phone 03422215----
+
+
+Record added!
+
+
+-------------------------
+
+
+
+----donate Jo Bloggs----
+
+
+2 new donation record(s) for Jo Bloggs birthday 08-07-1998
+
+
+-------------------------
+
+
+
+----update birthday 12-19-1971----
+
+
+Record added!
+
+
+-------------------------
+
+
+
+----delete Patricia Davies----
+
+
+Record deleted!
+
+
+-------------------------
+
+
+
+----update name Jo Bloggs----
+
+
+Record updated!
+
+
+-------------------------
+
+
+
+----update name Tom Swift----
+
+
+Record added!
+
+
+-------------------------
+
+
+
+----donate Linda Evans----
+
+
+2 new donation record(s) for Linda Evans birthday 01-09-2003
+
+
+-------------------------
+
+
+
+----delete Posephine Bloggs----
+
+
+Record not found!
+
+
+-------------------------
+
+
+
+----update mobile 13101132----
+
+
+Invalid instruction (mobile 13101132)!
+
+
+-------------------------
+
+
+
+----delete Posephine Bloggs----
+
+
+Record not found!
+
+
+-------------------------
+
+

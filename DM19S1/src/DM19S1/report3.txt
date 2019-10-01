@@ -1,0 +1,48 @@
+
+
+----query top 3----
+
+
+Linda Bloggs; 13-01-1960; 700
+
+
+Posephine Bloggs; 23-07-2008; 700
+
+
+Jo Bloggs; 18-02-2003; 500
+
+
+---------------------------
+
+
+
+----------query name Tom Swift----------
+
+
+1 record(s) found:
+
+
+name Tom Swift
+
+
+birthday 1-1-2013
+
+
+address 12 Campus Street, Darlington, NSW
+
+
+postcode 2008
+
+
+phone 00111233
+
+
+recipient the disabled
+
+
+donation 300
+
+
+----------------------------------------
+
+

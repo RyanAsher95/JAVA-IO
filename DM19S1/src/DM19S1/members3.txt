@@ -1,0 +1,61 @@
+phone 00220000
+name Patricia Davies
+birthday 03-06-2008
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+
+name Jo Bloggs
+birthday 18-02-2003
+address 9001 Chester Crescent, Chatswood, NSW
+postcode 2057
+phone 88884444
+recipient wildlife
+donation 500
+
+phone 01012221
+birthday 23-07-2008
+name Posephine Bloggs
+recipient diabetes, wildlife
+donation 150, 550
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+
+address 102 Smith St, Summer hill, NSW
+postcode 2130
+name Linda Bloggs
+birthday 13-01-1960
+recipient diabetes, dog care
+donation 550, 150
+phone 11222009
+
+name Tom Swift
+birthday 1-1-2013
+address 12 Campus Street, Darlington, NSW
+postcode 2008
+phone 00111233
+recipient the disabled
+donation 300
+
+postcode 2066
+phone 03222215
+name Linda H Evans
+recipient the disabled
+address 1 Grace Street, Lane Cove, NSW
+donation 200
+
+name Posephine Esmerelda Bloggs
+birthday 13-05-1960
+recipient animal protection org
+donation 500
+postcode 2130
+phone 11222009
+address 102 Smith St, Summer hill, NSW
+
+name Patricia Davies
+birthday 03-06-2008
+phone 00220000
+recipient dog care, the disabled
+donation 100, 300
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+

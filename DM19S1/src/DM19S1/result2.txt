@@ -1,0 +1,128 @@
+
+
+name Posephine Bloggs
+
+
+birthday 23-07-2008
+
+
+address 61 Gibbes St, Rockdale, NSW
+
+
+postcode 2216
+
+
+phone 01012221
+
+
+recipient diabetes, dog care
+
+
+donation 500, 150
+
+
+
+name Posephine Esmerelda Bloggs
+
+
+birthday 13-05-1960
+
+
+address 102 Smith St, Summer hill, NSW
+
+
+postcode 2130
+
+
+phone 11222009
+
+
+
+name Jo Bloggs
+
+
+birthday 08-07-1998
+
+
+address 9001 Chester Crescent, Chatswood, NSW
+
+
+postcode 2067
+
+
+phone 88884444
+
+
+recipient animal protection, lifecare
+
+
+donation 200, 300
+
+
+
+name Linda Evans
+
+
+birthday 01-01-2013
+
+
+address 1 Grace Street, Lane Cove, NSW
+
+
+postcode 2066
+
+
+phone 001223456
+
+
+
+name Linda Evans
+
+
+birthday 01-09-2003
+
+
+address 100 Grace Street, Lane Cove, NSW
+
+
+postcode 2066
+
+
+phone 03422215
+
+
+recipient diabetes, dog care
+
+
+donation 500, 190
+
+
+
+name Linda H Evans
+
+
+birthday 12-19-1971
+
+
+address 1 Grace Street, Lane Cove, NSW, postcode 2066
+
+
+phone 03222215
+
+
+
+name Tom Swift
+
+
+birthday 15-12-1993
+
+
+address 12 Campus Street, Darlington, NSW
+
+
+postcode 2008
+
+
+phone 05111233
+
+
